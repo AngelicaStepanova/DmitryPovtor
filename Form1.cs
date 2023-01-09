@@ -1,4 +1,4 @@
 using System
 
-void main() {return 1;}
+void main() {return 2;}
 void dev_main() {}
